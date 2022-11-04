@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "title": "Кофта Найк",
+    "price": 1500,
+    "size":"M",
+    "image":"https://intertop.ua/load/N4009/412x550/95.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Кофта норс фейс",
+    "price": 999,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T711/1600x2133/96.jpg"
+
+  },
+  {
+    "id": 3,
+    "title": "Кофта",
+    "price": 750,
+    "size":"M",
+    "image":"https://lialia.ua/images/thumbnails/1956/1600/detailed/3168/9ada2fac-3012-11ec-80e7-00155d037705_02d94ad1-6177-11ec-80eb-00155d037705.jpeg"
+
+  },
+  {
+    "id": 4,
+    "title": "Кофта",
+    "price": 1200,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
+
+  }
+  
+]

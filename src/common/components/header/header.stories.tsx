@@ -11,3 +11,4 @@ export default {
 const Template: ComponentStory<typeof Header> = () => <Header />;
 
 export const View = Template.bind({});
+
