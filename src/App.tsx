@@ -1,7 +1,16 @@
-export const  App=()=> {
+import { Header } from "./common/components/header/header.component";
+import { MenuList } from "./modules/menu/components/menu-list/menu-list.component";
+import clothes from "./mocks/cloth.json";
+import { Footer } from "./common/components/footer/footer.component";
+
+export const App = () => {
   return (
-    <h1 className="text-lg font-medium text-red-500" >👖 Shop</h1>
+    <>
+      <Header />
+     <div className="mb-24"> <MenuList clothes={clothes} /></div>
+      <Footer />
+    </>
   );
-}
+};
 
 export default App;

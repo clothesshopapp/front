@@ -30,6 +30,37 @@
     "size":"M",
     "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
 
+  },
+  {
+    "id": 5,
+    "title": "Кофта",
+    "price": 1200,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
+
+  },
+  {
+    "id": 6,
+    "title": "Кофта",
+    "price": 1200,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
+
+  },
+  {
+    "id": 7,
+    "title": "Кофта",
+    "price": 1200,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
+
+  },
+  {
+    "id": 8,
+    "title": "Кофта",
+    "price": 1200,
+    "size":"M",
+    "image":"https://intertop.ua/load/6T685/412x550/97.jpg"
+
   }
-  
 ]

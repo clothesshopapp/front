@@ -8,7 +8,7 @@ interface FooterLinksProps {
 export const FooterLink:FC<FooterLinksProps & PropsWithChildren> = ({href , children}) =>{
     return(
        <>
-        <li><a href={href} className="hover:text-white  hover:underline">{children}</a></li>
+        <li className="last:mt-2"><a href={href} className="hover:text-white  hover:underline ">{children}</a></li>
        </>
     )
 }

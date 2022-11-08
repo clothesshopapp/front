@@ -15,10 +15,10 @@ export const MenuItem: FC<MenuItemProps> = ({
   size,
 }) => {
   return (
-    <div className="w-64 h-64 shadow-2xl rounded-2xl p-4">
+    <div className="w-72 h-72 shadow-2xl rounded-2xl p-4">
       <div className="h-36 relative">
         <img
-          className=" top-0 left-0  w-full h-full  absolute"
+          className=" top-0 left-0  w-full h-full object-cover object-center absolute"
           src={imagePath}
           alt="cloth"
         />
